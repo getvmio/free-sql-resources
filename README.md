@@ -1,9 +1,5 @@
 # SQL Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🗃️ Master the language of data with our SQL Sandbox repository! Featuring a comprehensive collection of free resources, courses, and an online SQL playground, this is your training ground for querying, manipulating, and managing relational databases like a pro.
 
 ## Resources
